@@ -30,7 +30,8 @@ public class QueueQuestion {
 				String y = scan.next();
 				break;
 			case 'C':
-					
+				
+				
 			}
 
 		}
